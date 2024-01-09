@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sowmya Gottumukkala</h1>
 <h3 align="center">A passionate frontend developer and AI-ML enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz38kfrTMvwlCPKlgJA46cOUkTnJADnbsbgg&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmya-gottumukkala&label=Profile%20views&color=0e75b6&style=flat" alt="sowmya-gottumukkala" /> </p>
 
