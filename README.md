@@ -36,5 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sowmya-Gottumukkala&show_icons=true&locale=en&layout=compact" alt="sowmya-gottumukkala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sowmya-Gottumukkala&show_icons=true&locale=en" alt="sowmya-gottumukkala" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya-Gottumukkala" alt="sowmya-gottumukkala" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sowmya-Gottumukkala)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya-Gottumukkala" alt="Sowmya-Gottumukkala" /></p>
+
