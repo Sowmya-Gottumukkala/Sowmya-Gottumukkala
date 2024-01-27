@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://sowmya-gottumukkala.github.io/My-Portfolio/](https://sowmya-gottumukkala.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sowmya-gottumukkala.github.io/Portfolio/](https://sowmya-gottumukkala.github.io/Portfolio/)
 
 - 📫 How to reach me **sowmyagottumukkala27@gmail.com**
 
